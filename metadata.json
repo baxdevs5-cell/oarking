@@ -1,0 +1,6 @@
+{
+  "name": "PARCKING - 3D Real Car Parking Simulator",
+  "description": "Professional 3D car parking simulator with keyboard & mobile steering wheel controls, automatic and manual transmission, realistic physics, and progressive parking missions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
